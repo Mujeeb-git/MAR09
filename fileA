@@ -1,0 +1,3 @@
+A Git hub repository stores all the files for a particular project
+It is access over a network, acting as a server and version control tool acting a client
+clients can connected to the repository and then they can store/retrieve their changes to/from the repository
